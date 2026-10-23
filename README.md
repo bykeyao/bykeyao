@@ -4,4 +4,4 @@ Mathematics graduate student at Nankai University.
 
 Exploring world models, robot learning, and mathematical reasoning.
 
-[Website](https://bykeyao.github.io/) · [Email](mailto:mathkeyao@163.com)
+[Website](https://keyao0121.github.io/) · [Email](mailto:mathkeyao@163.com)
